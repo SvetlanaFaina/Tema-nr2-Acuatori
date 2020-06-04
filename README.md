@@ -1,2 +1,2 @@
-# Tema-nr2-Acuatori
+# Tema-nr2-Acuatori /old error
 PIR Sensor, LDR Sensor, Relay
